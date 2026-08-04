@@ -1,7 +1,7 @@
 ﻿//+------------------------------------------------------------------+
-//|                                   OWS_Pro_Dashboard_V15.mq5      |
-//|                        Copyright 2025, OptiWealth Solutions       |
-//|                                       https://www.optiwealth.ai  |
+//|                                     horacle_monitor_V15.mq5      |
+//|                            Copyright 2025, Horacle Capital       |
+//|                                  https://www.horaclecapital.com  |
 //+------------------------------------------------------------------+
 //
 //  LAYOUT V15
