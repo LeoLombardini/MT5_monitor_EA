@@ -1,4 +1,3 @@
-# MT5_monitor_EA
 
 Conversation avec Gemini
 ecris un readme github pour ce code : //+------------------------------------------------------------------+
